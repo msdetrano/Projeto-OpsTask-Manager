@@ -16,7 +16,7 @@ Este projeto é um MVP (Produto Mínimo Viável) de um sistema de gerenciamento 
 
 ## Como Acessar
 Acesse a versão live da aplicação no link abaixo:
-[INSIRA AQUI O SEU LINK DO BUBBLE DEPOIS DE PUBLICAR]
+
 
 ## Como Testar
 1. Acesse o link acima.
