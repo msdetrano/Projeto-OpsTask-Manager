@@ -24,6 +24,9 @@ O objetivo central é resolver a descentralização de informações no dia a di
 - 🔍 **Busca e Filtros:** Pesquisa rápida de tickets para agilizar a operação.
 - 📱 **Design Responsivo:** Interface adaptada para uso fluido em diferentes tamanhos de tela.
 
+<img width="1893" height="850" alt="image" src="https://github.com/user-attachments/assets/ad4edb2c-2682-4e70-b5cf-8a5ce86f200f" />
+
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **[Bubble.io](https://bubble.io/):** Plataforma *Full-stack No-Code* responsável pela interface (Front-end), lógica de negócios (Workflows) e hospedagem.
